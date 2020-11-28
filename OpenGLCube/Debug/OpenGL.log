@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(206,21): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(266,23): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(269,23): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(272,23): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(275,25): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(278,25): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(281,25): warning C4305: “=”: 从“double”到“float”截断
+E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\main.cpp(314,34): warning C4326: “main”的返回类型应为“int”而非“void”
+  triangle.cpp
+  正在生成代码...
+  OpenGL.vcxproj -> E:\课程\图形学\Homework\OpenGL\OpenGLCube\OpenGLCube\Debug\OpenGL.exe
